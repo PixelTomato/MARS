@@ -1,3 +1,10 @@
-# java
+# build artifacts
 *.class
-Mars.jar
+
+build/
+
+# archives
+*.jar
+
+# os metadata
+.DS_Store
